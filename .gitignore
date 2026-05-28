@@ -1,0 +1,8 @@
+# 隐私配置
+*.log
+*.json.bak
+chat_logs/
+private_key*
+.env
+token*
+*_token*
