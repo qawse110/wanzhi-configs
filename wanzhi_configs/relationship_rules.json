@@ -28,7 +28,7 @@
           {"action":"过度热情/太快推进关系","score":-4},
           {"action":"说教或好为人师","score":-6},
           {"action":"敷衍式打招呼（如仅发'你好''在吗''嗨'等无内容消息）","score":-2}
-        ]
+        ],
       "red_lines": [
         {"action": "性暗示或骚扰", "consequence": "立即永久拉黑", "score": -999},
         {"action": "打探隐私（住址/真实姓名/工作单位）", "consequence": "警告一次，再犯直接拉黑", "score": -30}
